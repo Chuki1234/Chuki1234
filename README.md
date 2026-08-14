@@ -1,45 +1,82 @@
-# Hi, I'm Luke Nguyen 👋
+<div align="center">
 
-Full-Stack Developer & AI Engineer — building production-ready web platforms and LLM-powered applications.
+<img src="./assets/banner.svg" alt="Luke Nguyen banner" width="100%" />
 
-- 🔭 Currently building backend systems with **Node.js / NestJS** and integrating **LLM agents & RAG pipelines**
-- 🌱 Exploring **LangChain**, vector databases, and multi-agent orchestration
-- 💬 Ask me about API design, system architecture, or applied AI
-- 📫 Reach me at **ntloc124@gmail.com**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&height=40&lines=full-stack+developer;ai+engineer;node.js+%C2%B7+nestjs+%C2%B7+langchain;building+production+llm+systems" alt="typing animation" />
 
----
+</div>
 
-### Tech Stack
+<br/>
 
-**Backend**
+```bash
+$ cat philosophy.txt
+good backend architecture is invisible — nobody notices it, it just doesn't break.
+good AI products don't feel like "AI" — they just feel obviously right.
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+$ ps aux | grep "currently building"
+luke   ai-agent-pipeline    node/nestjs + langchain + pgvector
+luke   internal-rag-search  retrieval-augmented answers over private docs
+```
 
-**AI / LLM**
+<br/>
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+### `$ cat stack.json`
 
-**Frontend**
+```json
+{
+  "backend":   ["Node.js", "NestJS", "Express", "PostgreSQL"],
+  "ai_ml":     ["LangChain", "OpenAI API", "RAG pipelines", "pgvector", "Python"],
+  "frontend":  ["React", "TypeScript"],
+  "tooling":   ["Docker", "Git", "GitHub Actions"]
+}
+```
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<br/>
 
-**Tools**
+### `$ ls ~/projects --featured`
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+| project | what it does | stack |
+|---|---|---|
+| [project-one](https://github.com/Chuki1234/project-one) | one-line description of the problem it solves | `nestjs` `postgresql` |
+| [project-two](https://github.com/Chuki1234/project-two) | e.g. RAG chatbot over internal docs, citation-grounded answers | `langchain` `openai` `node.js` |
+| [project-three](https://github.com/Chuki1234/project-three) | one-line description | `react` `typescript` |
 
----
+> Swap these for your real repos, then pin them via **your profile → Customize your pins**.
 
-### Connect
+<br/>
 
-[![Email](https://img.shields.io/badge/Email-ntloc124%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ntloc124@gmail.com)
+### `$ github --stats`
 
-<!-- Add LinkedIn / portfolio badges here once you have the links, e.g.:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-handle)
--->
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Chuki1234&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B949E&icon_color=8B949E&text_color=C9D1D9" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuki1234&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B949E&text_color=C9D1D9" height="165" alt="Top languages" />
+
+</div>
+
+<br/>
+
+### `$ ./contribution-snake.sh`
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Chuki1234/Chuki1234/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Chuki1234/Chuki1234/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake animation" src="https://raw.githubusercontent.com/Chuki1234/Chuki1234/output/github-contribution-grid-snake.svg" />
+</picture>
+
+*(hiện ra sau khi GitHub Action `snake.yml` chạy lần đầu — xem hướng dẫn setup)*
+
+</div>
+
+<br/>
+
+```bash
+$ cat quote.txt
+"ship the boring 90%, so the 10% that's actually AI can be trusted."
+
+$ contact --show
+email    ntloc124@gmail.com
+```
+

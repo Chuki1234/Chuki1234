@@ -43,19 +43,6 @@ luke   internal-rag-search  retrieval-augmented answers over private docs
 
 > Swap these for your real repos, then pin them via **your profile → Customize your pins**.
 
-<br/>
-
-### `$ github --stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Chuki1234&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B949E&icon_color=8B949E&text_color=C9D1D9" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chuki1234&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B949E&text_color=C9D1D9" height="165" alt="Top languages" />
-
-</div>
-
-<br/>
-
 ### `$ ./contribution-snake.sh`
 
 <div align="center">
